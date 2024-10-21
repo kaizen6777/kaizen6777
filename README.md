@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Akshay Mahajan<br>Information Security Consultant | eJPT | Threat Hunting | Incident Response | Web Application Security | API Security
 
+![Hackerman](https://media.giphy.com/media/mmxO9wS8nQFOvqgCbn/giphy.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaym6777) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akshay898M) 
